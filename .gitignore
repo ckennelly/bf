@@ -1,0 +1,6 @@
+*.d
+*.gcov
+*.gcda
+*.gcno
+*.o
+interpreter
