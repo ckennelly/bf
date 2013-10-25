@@ -1,5 +1,5 @@
 bf - A JIT'ing Interpreter for a Turing Tarpit
-(c) 2012 - Chris Kennelly (chris@ckennelly.com)
+(c) 2012 - Chris Kennelly (chris@ckennelly.com), Kennelly Research & Development LLC
 
 Overview
 ========
